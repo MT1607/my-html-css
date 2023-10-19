@@ -1,0 +1,7 @@
+#header {
+  position: fixed;
+  width: 100%;
+  background: #040b14;
+  z-index: 9997;
+  overflow-x: auto;
+}
